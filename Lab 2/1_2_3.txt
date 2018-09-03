@@ -1,0 +1,6 @@
+1.
+Suppose we have 5 vertexes and minimum nummber of  edges is 4. If we dividi it to number of connected components we have number of edges with removed edge. So number of edges we can take as
+ n-k.
+2. Complete graph means it takes into account all cases. If we have complete graph with 5 vertexes then there are 4  simple paths exist from vertex 1 to vertex 2. 
+3. 
+If each of the N vertexes in the connected graph has exactly two edges it will have 0 bridges.
